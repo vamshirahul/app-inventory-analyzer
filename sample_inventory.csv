@@ -1,0 +1,6 @@
+Company,Application,Category,Deployment,Owner
+Company A,JD Edwards,ERP,On-Prem,IT
+Company A,Salesforce,CRM,Cloud,Sales
+Company B,SAP ECC,ERP,On-Prem,Finance
+Company B,HubSpot,CRM,Cloud,Marketing
+Company B,JD Edwards,ERP,On-Prem,IT
